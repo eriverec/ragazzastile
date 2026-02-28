@@ -8,7 +8,7 @@
     >
       <b-navbar-brand to="/">
         <img
-          src="@/static/ragazzanew.png"
+          src="@/static/ragazza2026.webp"
           class="d-inline-block align-middle logo__gc"
           alt="Kitten"
         />
